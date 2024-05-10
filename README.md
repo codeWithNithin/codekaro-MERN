@@ -38,3 +38,16 @@
   -- src -> link or url of the video
   -- height -> height or width to give size
   -- to make video play, add attribute called controls
+
+# day 4
+
+- Intro to css
+- Inline, internal,external
+  -- inline has highest prio
+  -- internal and external has equal prio
+  -- external css, is the mostly preferred, because we can organized way by keeping all css rules in a single file.
+  -- dont have to repeat the same code.
+- order of arranging the files or style tag in head matters.
+- class / id
+- class - .
+- id - #
